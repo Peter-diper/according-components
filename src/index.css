@@ -1,0 +1,13 @@
+#root {
+  justify-self: center;
+  width: 100%;
+  max-width: 80vw;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: #e7e5e562;
+}
